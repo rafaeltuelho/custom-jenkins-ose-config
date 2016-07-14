@@ -1,0 +1,9 @@
+[workspace] Running shell script
++ oc new-project helloworld-msa-dev
+Now using project "helloworld-msa-dev" on server "https://10.1.2.2:8443".
+
+You can add applications to this project with the 'new-app' command. For example, try:
+
+    $ oc new-app centos/ruby-22-centos7~https://github.com/openshift/ruby-hello-world.git
+
+to build a new hello-world application in Ruby.

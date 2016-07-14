@@ -1,0 +1,12 @@
+[workspace] Running shell script
++ oc login --insecure-skip-tls-verify=true -u **** -p **** https://10.1.2.2:8443
+Login successful.
+
+You have access to the following projects and can switch between them with 'oc project <projectname>':
+
+  * ci (current)
+  * demo
+  * sample-project
+
+Using project "ci".
+Welcome! See 'oc help' to get started.
