@@ -1,3 +1,0 @@
-[workspace] Running shell script
-+ oc project helloworld-msa-dev
-Now using project "helloworld-msa-dev" on server "https://10.1.2.2:8443".
