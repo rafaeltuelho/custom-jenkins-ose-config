@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: BuildConfig
 metadata:
-  name: custom-jenkins-build
+  name: custom-jenkins-pipeline-build
 spec:
   source:
     git:
